@@ -1,9 +1,4 @@
-<!--
-  GitHub Profile README
-  Replace YOUR_USERNAME with your GitHub username.
--->
-
-<div align="center">
+ <div align="center">
 
 # 👋 Hey! I'm a Vibe Coder
 
@@ -11,7 +6,7 @@
 
 **Turning ideas into reality, one project at a time.**
 
-[🇦🇷 Español](#-sobre-mí) · [🇬🇧 English](#-about-me)
+🇦🇷 Español | 🇬🇧 English
 
 </div>
 
@@ -29,7 +24,7 @@ No se trata solamente de generar código, sino de imaginar, planificar, experime
 
 - 🤖 **Vibe Coding:** desarrollo asistido por inteligencia artificial.
 - 💻 **Software Development:** creación de aplicaciones y soluciones digitales.
-- 🎮 **Game Development:** experimentación con videojuegos y modificaciones.
+- 🌐 **Web Development:** diseño y desarrollo de páginas y aplicaciones web.
 - 🧩 **Problem Solving:** transformar ideas y necesidades en soluciones.
 - 📚 **Continuous Learning:** aprender construyendo proyectos reales.
 
@@ -37,19 +32,45 @@ No se trata solamente de generar código, sino de imaginar, planificar, experime
 
 | Categoría | Tecnologías |
 |---|---|
-| Lenguajes | Java, SQL |
-| Desarrollo | JavaFX, Minecraft Forge |
+| Lenguajes | C#, Java, SQL |
+| Frameworks | .NET MAUI |
+| Bases de datos | SQLite |
+| Desarrollo | Aplicaciones de escritorio y web |
 | Herramientas | Git, GitHub |
 | Metodología | AI-Assisted Development |
 
-### 🧪 Proyectos destacados
+---
 
-- 🐾 **MascoÑiñis:** un mod de Minecraft inspirado en las mascotas reales de amigos.
-- 🌱 **Jardín Secreto:** proyecto de desarrollo de software orientado a la gestión de un vivero.
+## 🌟 Proyectos destacados
 
-### 🧠 Mi filosofía
+### 🛍️ Lety Accesorios — Gestión de inventario y ventas
 
-> Las ideas no tienen que quedarse en la imaginación. Con creatividad, curiosidad y las herramientas adecuadas, pueden convertirse en realidad.
+Aplicación desarrollada para administrar y organizar un emprendimiento de accesorios, centralizando la gestión de materiales, producción, productos y ventas.
+
+**Funcionalidades principales:**
+
+- 🧵 **Gestión de insumos:** registro de materiales, costos, unidades de medida y stock disponible.
+- 🏪 **Comparador de proveedores:** comparación de precios entre diferentes distribuidores y comercios.
+- 🌸 **Catálogo de productos:** administración de accesorios, precios de venta y existencias.
+- 🧮 **Costos de producción:** creación de recetas mediante insumos, cantidades y costos parciales.
+- 💰 **Precios inteligentes:** cálculo de costos, mano de obra, márgenes de ganancia y precios sugeridos.
+- 🛒 **Gestión de ventas:** armado de tickets, carrito de productos, cantidades y medios de pago.
+- 📊 **Panel de estadísticas:** resumen de ventas, caja diaria y actividad semanal.
+- ⚠️ **Alertas de inventario:** identificación de materiales con stock bajo.
+- 💾 **Backup y restauración:** herramientas para respaldar y recuperar información.
+- 📱 **Almacenamiento local:** gestión de información en el dispositivo.
+
+**Tecnologías utilizadas:**
+- C#
+- .NET MAUI
+- SQLite
+- HTML / CSS / JavaScript (versión web)
+
+**Accesos al proyecto:**
+
+📂 [Repositorio en GitHub](https://github.com/agustinsantiagosoria-bit/LetyAccesoriosApp)
+
+🌐 [Ver aplicación web](https://agustinsantiagosoria-bit.github.io/LetyAccesoriosApl/)
 
 ---
 
@@ -65,29 +86,46 @@ It's not just about generating code. It's about imagining, planning, experimenti
 
 - 🤖 **Vibe Coding:** AI-assisted software development.
 - 💻 **Software Development:** building applications and digital solutions.
-- 🎮 **Game Development:** experimenting with games and modifications.
+- 🌐 **Web Development:** designing and developing websites and web applications.
 - 🧩 **Problem Solving:** turning ideas and needs into practical solutions.
 - 📚 **Continuous Learning:** learning by building real projects.
 
-### 🛠️ Technologies & Tools
+### 🌟 Featured Projects
 
-| Category | Technologies |
-|---|---|
-| Languages | Java, SQL |
-| Development | JavaFX, Minecraft Forge |
-| Tools | Git, GitHub |
-| Methodology | AI-Assisted Development |
+#### 🛍️ Lety Accesorios — Inventory & Sales Management
 
-### 🧪 Featured Projects
+An application developed to manage an accessories business, bringing together inventory, production, product catalog and sales management.
 
-- 🐾 **MascoÑiñis:** a Minecraft mod inspired by the real pets of friends.
-- 🌱 **Jardín Secreto:** a software development project focused on nursery management.
+**Main features:**
 
-### 🧠 My philosophy
+- 🧵 **Inventory Management:** materials, costs, measurement units and stock tracking.
+- 🏪 **Supplier Price Comparison:** compare prices across different suppliers and stores.
+- 🌸 **Product Catalog:** manage accessories, selling prices and available stock.
+- 🧮 **Production Costing:** create product recipes using materials, quantities and partial costs.
+- 💰 **Pricing Calculations:** production costs, labor, profit margins and suggested selling prices.
+- 🛒 **Sales Management:** shopping cart, sales tickets, quantities and payment methods.
+- 📊 **Dashboard & Analytics:** daily cash register and weekly sales summaries.
+- ⚠️ **Stock Alerts:** identify materials running low.
+- 💾 **Backup & Restore:** backup and data recovery tools.
+- 📱 **Local Storage:** manage information locally on the device.
 
-> Ideas shouldn't stay trapped in your imagination. With creativity, curiosity and the right tools, they can become reality.
+**Technologies:**
+- C#
+- .NET MAUI
+- SQLite
+- HTML / CSS / JavaScript (web version)
+
+**Project links:**
+
+📂 [GitHub Repository](https://github.com/agustinsantiagosoria-bit/LetyAccesoriosApp)
+
+🌐 [Live Web Application](https://agustinsantiagosoria-bit.github.io/LetyAccesoriosApl/)
 
 ---
+
+## 🧠 My philosophy
+
+> Ideas shouldn't stay trapped in your imagination. With creativity, curiosity and the right tools, they can become reality.
 
 <div align="center">
 
